@@ -1,4 +1,4 @@
-#   Find All Maximal Exat Matches in the collection of texts
+#   Find All Maximal Exact Matches in the collection of texts
 - small project, that build a suffix tree over text collection given in fasta file or as a simple text delimited by special character '$'.
 - returns output in the following format:
 ```
